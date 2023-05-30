@@ -1,0 +1,831 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 649,
+    "items": [
+        {
+            "kind": "books#volume",
+            "id": "7g5WU-D8RkIC",
+            "etag": "VJL8MtPI5JE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/7g5WU-D8RkIC",
+            "volumeInfo": {
+                "title": "Applications of Categories in Computer Science",
+                "subtitle": "Proceedings of the London Mathematical Society Symposium, Durham 1991",
+                "authors": [
+                    "M. P. Fourman",
+                    "P. T. Johnstone",
+                    "A. M. Pitts"
+                ],
+                "publisher": "Cambridge University Press",
+                "publishedDate": "1992-06-26",
+                "description": "Selected papers reflecting current research in categories and computer science.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780521427265"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0521427266"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 353,
+                "printType": "BOOK",
+                "categories": [
+                    "Mathematics"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.4.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=7g5WU-D8RkIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=7g5WU-D8RkIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=7g5WU-D8RkIC&printsec=frontcover&dq=computer+science&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=7g5WU-D8RkIC&dq=computer+science&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Applications_of_Categories_in_Computer_S.html?hl=&id=7g5WU-D8RkIC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Applications_of_Categories_in_Computer_S-sample-pdf.acsm?id=7g5WU-D8RkIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=7g5WU-D8RkIC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "All the papers have been refereed and represent some of the most important and current ideas. Hence this book will be essential to mathematicians and computer scientists working in the applications of category theory."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "culPGJf4MGcC",
+            "etag": "0bGObacBU8s",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/culPGJf4MGcC",
+            "volumeInfo": {
+                "title": "Advances in Computer Science, Environment, Ecoinformatics, and Education, Part IV",
+                "subtitle": "International Conference, CSEE 2011, Wuhan, China, August 21-22, 2011. Proceedings",
+                "authors": [
+                    "Sally Lin",
+                    "Xiong Huang"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2011-08-09",
+                "description": "This 5-volume set (CCIS 214-CCIS 218) constitutes the refereed proceedings of the International Conference on Computer Science, Environment, Ecoinformatics, and Education, CSEE 2011, held in Wuhan, China, in July 2011. The 525 revised full papers presented in the five volumes were carefully reviewed and selected from numerous submissions. The papers are organized in topical sections on information security, intelligent information, neural networks, digital library, algorithms, automation, artificial intelligence, bioinformatics, computer networks, computational system, computer vision, computer modelling and simulation, control, databases, data mining, e-learning, e-commerce, e-business, image processing, information systems, knowledge management and knowledge discovering, mulitimedia and its apllication, management and information system, moblie computing, natural computing and computational intelligence, open and innovative education, pattern recognition, parallel and computing, robotics, wireless network, web application, other topics connecting with computer, environment and ecoinformatics, modeling and simulation, environment restoration, environment and energy, information and its influence on environment, computer and ecoinformatics, biotechnology and biofuel, as well as biosensors and bioreactor.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783642233388"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3642233384"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 635,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=culPGJf4MGcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=culPGJf4MGcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=culPGJf4MGcC&printsec=frontcover&dq=computer+science&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=culPGJf4MGcC&dq=computer+science&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Advances_in_Computer_Science_Environment.html?hl=&id=culPGJf4MGcC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Advances_in_Computer_Science_Environment-sample-pdf.acsm?id=culPGJf4MGcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=culPGJf4MGcC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This 5-volume set (CCIS 214-CCIS 218) constitutes the refereed proceedings of the International Conference on Computer Science, Environment, Ecoinformatics, and Education, CSEE 2011, held in Wuhan, China, in July 2011."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "kYYJLhL2arwC",
+            "etag": "/01EomosSTQ",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/kYYJLhL2arwC",
+            "volumeInfo": {
+                "title": "Mathematics of Discrete Structures for Computer Science",
+                "authors": [
+                    "Gordon J. Pace"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2012-09-13",
+                "description": "Mathematics plays a key role in computer science, some researchers would consider computers as nothing but the physical embodiment of mathematical systems. And whether you are designing a digital circuit, a computer program or a new programming language, you need mathematics to be able to reason about the design -- its correctness, robustness and dependability. This book covers the foundational mathematics necessary for courses in computer science. The common approach to presenting mathematical concepts and operators is to define them in terms of properties they satisfy, and then based on these definitions develop ways of computing the result of applying the operators and prove them correct. This book is mainly written for computer science students, so here the author takes a different approach: he starts by defining ways of calculating the results of applying the operators and then proves that they satisfy various properties. After justifying his underlying approach the author offers detailed chapters covering propositional logic, predicate calculus, sets, relations, discrete structures, structured types, numbers, and reasoning about programs. The book contains chapter and section summaries, detailed proofs and many end-of-section exercises -- key to the learning process. The book is suitable for undergraduate and graduate students, and although the treatment focuses on areas with frequent applications in computer science, the book is also suitable for students of mathematics and engineering.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783642298400"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3642298400"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 296,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.7.9.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=kYYJLhL2arwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=kYYJLhL2arwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=kYYJLhL2arwC&printsec=frontcover&dq=computer+science&hl=&cd=3&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=kYYJLhL2arwC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kYYJLhL2arwC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 1692.35,
+                    "currencyCode": "EGP"
+                },
+                "retailPrice": {
+                    "amount": 1692.35,
+                    "currencyCode": "EGP"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=kYYJLhL2arwC&rdid=book-kYYJLhL2arwC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 1692350000,
+                            "currencyCode": "EGP"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 1692350000,
+                            "currencyCode": "EGP"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Mathematics_of_Discrete_Structures_for_C-sample-epub.acsm?id=kYYJLhL2arwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Mathematics_of_Discrete_Structures_for_C-sample-pdf.acsm?id=kYYJLhL2arwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=kYYJLhL2arwC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book covers the foundational mathematics necessary for courses in computer science."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "d8AaeYeLVK8C",
+            "etag": "wdu6btQ5nIk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/d8AaeYeLVK8C",
+            "volumeInfo": {
+                "title": "Advances in Computer Science and Information Technology",
+                "subtitle": "First International Conference on Computer Science and Information Technology, CCSIT 2011, Bangalore, India, January 2-4, 2011. Proceedings",
+                "authors": [
+                    "Natarajan Meghanathan",
+                    "B.K. Kaushik",
+                    "Dhinaharan Nagamalai"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2010-12-14",
+                "description": "This volume constitutes the first of three parts of the refereed proceedings of the First International Conference on Computer Science and Information Technology, CCSIT 2010, held in Bangalore, India, in January 2011. The 59 revised full papers presented in this volume were carefully reviewed and selected. The papers are organized in topical sections on distributed and parallel systems and algorithms; DSP, image processing, pattern recognition, and multimedia; software engineering; database and data Mining; as well as soft computing, such as AI, neural networks, fuzzy systems, etc.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783642178566"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "3642178561"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 643,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=d8AaeYeLVK8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=d8AaeYeLVK8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=d8AaeYeLVK8C&printsec=frontcover&dq=computer+science&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=d8AaeYeLVK8C&dq=computer+science&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Advances_in_Computer_Science_and_Informa.html?hl=&id=d8AaeYeLVK8C"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Advances_in_Computer_Science_and_Informa-sample-pdf.acsm?id=d8AaeYeLVK8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=d8AaeYeLVK8C&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This volume constitutes the first of three parts of the refereed proceedings of the First International Conference on Computer Science and Information Technology, CCSIT 2010, held in Bangalore, India, in January 2011."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "1F29zgEACAAJ",
+            "etag": "0IdvRxw/dLo",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/1F29zgEACAAJ",
+            "volumeInfo": {
+                "title": "Computer Science in Perspective",
+                "subtitle": "Essays Dedicated to Thomas Ottmann",
+                "authors": [
+                    "Rolf Klein",
+                    "Hans-Werner Six",
+                    "Lutz Wegner"
+                ],
+                "publisher": "Springer",
+                "publishedDate": "2003-02-17",
+                "description": "By presenting state-of-the-art aspects of theoretical computer science and practical applications in various fields, this book commemorates the 60th birthday of Thomas Ottmann. The 26 research papers presented span the whole range of Thomas Ottmann's scientific career, from formal languages to algorithms and data structures, from topics in practical computer science like software engineering or database systems to applications of Web technology, groupware, and e-learning.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "354000579X"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783540005797"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 362,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=1F29zgEACAAJ&dq=computer+science&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=1F29zgEACAAJ&dq=computer+science&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Computer_Science_in_Perspective.html?hl=&id=1F29zgEACAAJ"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=1F29zgEACAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "By presenting state-of-the-art aspects of theoretical computer science and practical applications in various fields, this book commemorates the 60th birthday of Thomas Ottmann."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Tbk0EAAAQBAJ",
+            "etag": "pmPWo8GXKho",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Tbk0EAAAQBAJ",
+            "volumeInfo": {
+                "title": "Advances in Intelligent Systems, Computer Science and Digital Economics II",
+                "authors": [
+                    "Zhengbing Hu",
+                    "Sergey Petoukhov",
+                    "Matthew He"
+                ],
+                "publisher": "Springer Nature",
+                "publishedDate": "2021-06-23",
+                "description": "This book comprises high-quality refereed research papers presented at The Second International Symposium on Computer Science, Digital Economy and Intelligent Systems (CSDEIS2020), held in Moscow, Russia, on December 18–20, 2020, organized jointly by Moscow State Technical University and the International Research Association of Modern Education and Computer Science. The topics discussed in the book include state-of-the-art papers in computer science and their technological applications; intelligent systems and intellectual approaches; digital economics and methodological approaches. It is an excellent source of references for researchers, graduate students, engineers, management practitioners, and undergraduate students interested in computer science and their applications in engineering and management.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9783030804787"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "303080478X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 186,
+                "printType": "BOOK",
+                "categories": [
+                    "Technology & Engineering"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Tbk0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Tbk0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=Tbk0EAAAQBAJ&printsec=frontcover&dq=computer+science&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=Tbk0EAAAQBAJ&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Tbk0EAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 3046.5,
+                    "currencyCode": "EGP"
+                },
+                "retailPrice": {
+                    "amount": 3046.5,
+                    "currencyCode": "EGP"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=Tbk0EAAAQBAJ&rdid=book-Tbk0EAAAQBAJ&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 3046500000,
+                            "currencyCode": "EGP"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 3046500000,
+                            "currencyCode": "EGP"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Advances_in_Intelligent_Systems_Computer-sample-epub.acsm?id=Tbk0EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Advances_in_Intelligent_Systems_Computer-sample-pdf.acsm?id=Tbk0EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Tbk0EAAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book comprises high-quality refereed research papers presented at The Second International Symposium on Computer Science, Digital Economy and Intelligent Systems (CSDEIS2020), held in Moscow, Russia, on December 18–20, 2020, ..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "ZdUkAwAAQBAJ",
+            "etag": "+7Wq/HV9WMk",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/ZdUkAwAAQBAJ",
+            "volumeInfo": {
+                "title": "Proceedings, Fourth International Conference on Computer Science Practice in Arabic",
+                "authors": [
+                    "Abdelmalek Boularas",
+                    "Ali Jaoua"
+                ],
+                "publisher": "Lulu.com",
+                "publishedDate": "2008",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780615199054"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "0615199054"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 296,
+                "printType": "BOOK",
+                "categories": [
+                    "Arabic language"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=ZdUkAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=ZdUkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "ar",
+                "previewLink": "http://books.google.com.eg/books?id=ZdUkAwAAQBAJ&pg=PT67&dq=computer+science&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=ZdUkAwAAQBAJ&dq=computer+science&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Proceedings_Fourth_International_Confere.html?hl=&id=ZdUkAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Proceedings_Fourth_International_Confere-sample-pdf.acsm?id=ZdUkAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=ZdUkAwAAQBAJ&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "خامساً: الطبيعة العلمية المتعددة للتجارة الإلكترونية: Multi-<b>Scientific</b> Naturalism of E-Commerce مجال جديد، فإنها مازالت تطور مبادئها العلمية والنظرية. فهو واضح التجارة الالكترونية تعتبر علم جديد في التجارة الالكترونية تعتمد على بعض من&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "I5CV_uUKfYoC",
+            "etag": "ihHu7yiaBPI",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/I5CV_uUKfYoC",
+            "volumeInfo": {
+                "title": "Thesis Projects",
+                "subtitle": "A Guide for Students in Computer Science and Information Systems",
+                "authors": [
+                    "Mikael Berndtsson",
+                    "Jörgen Hansson",
+                    "B. Olsson",
+                    "Björn Lundell"
+                ],
+                "publisher": "Springer Science & Business Media",
+                "publishedDate": "2007-10-30",
+                "description": "You’re a computing or information student with a huge mountain to climb – that final-year research project. Don’t worry, because with this book guardian angels are at hand, in the form of four brilliant academics who will guide you through the process. The book provides you with all the tools necessary to successfully complete a final year research project. Based on an approach that has been tried and tested on over 500 projects, it offers a simple step-by-step guide to the key processes involved. Not only that, but the book also contains lots of useful information for supervisors and examiners including guidelines on how to review a final year project.",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9781848000094"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "184800009X"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 162,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.3.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=I5CV_uUKfYoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=I5CV_uUKfYoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=I5CV_uUKfYoC&printsec=frontcover&dq=computer+science&hl=&cd=8&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=I5CV_uUKfYoC&source=gbs_api",
+                "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I5CV_uUKfYoC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 2369.42,
+                    "currencyCode": "EGP"
+                },
+                "retailPrice": {
+                    "amount": 2369.42,
+                    "currencyCode": "EGP"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=I5CV_uUKfYoC&rdid=book-I5CV_uUKfYoC&rdot=1&source=gbs_api",
+                "offers": [
+                    {
+                        "finskyOfferType": 1,
+                        "listPrice": {
+                            "amountInMicros": 2369420000,
+                            "currencyCode": "EGP"
+                        },
+                        "retailPrice": {
+                            "amountInMicros": 2369420000,
+                            "currencyCode": "EGP"
+                        }
+                    }
+                ]
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Thesis_Projects-sample-epub.acsm?id=I5CV_uUKfYoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Thesis_Projects-sample-pdf.acsm?id=I5CV_uUKfYoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=I5CV_uUKfYoC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Don’t worry, because with this book guardian angels are at hand, in the form of four brilliant academics who will guide you through the process."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "cjgPAQAAMAAJ",
+            "etag": "ppV1MphsGso",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/cjgPAQAAMAAJ",
+            "volumeInfo": {
+                "title": "Concrete Mathematics",
+                "subtitle": "A Foundation for Computer Science",
+                "authors": [
+                    "Ronald L. Graham",
+                    "Donald Ervin Knuth",
+                    "Oren Patashnik"
+                ],
+                "publisher": "Addison-Wesley Professional",
+                "publishedDate": "1994",
+                "description": "This book, updated and improved, introduces the mathematics that support advanced computer programming and the analysis of algorithms. The book's primary aim is to provide a solid and relevant base of mathematical skills. It is an indispensable text and reference for computer scientists and serious programmers in virtually every discipline.",
+                "industryIdentifiers": [
+                    {
+                        "type": "OTHER",
+                        "identifier": "UOM:49015002633049"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": false
+                },
+                "pageCount": 682,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "averageRating": 3,
+                "ratingsCount": 2,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.2.1.0.preview.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=cjgPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=cjgPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=cjgPAQAAMAAJ&q=computer+science&dq=computer+science&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=cjgPAQAAMAAJ&dq=computer+science&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Concrete_Mathematics.html?hl=&id=cjgPAQAAMAAJ"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "NO_PAGES",
+                "embeddable": false,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=cjgPAQAAMAAJ&hl=&source=gbs_api",
+                "accessViewStatus": "NONE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This book, updated and improved, introduces the mathematics that support advanced computer programming and the analysis of algorithms. The book&#39;s primary aim is to provide a solid and relevant base of mathematical skills."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "bjE5EHw35DkC",
+            "etag": "IQbd1dZedoU",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/bjE5EHw35DkC",
+            "volumeInfo": {
+                "title": "TEXTBOOK OF COMPUTER SCIENCE FOR CLASS XI",
+                "authors": [
+                    "SEEMA BHATNAGAR"
+                ],
+                "publisher": "PHI Learning Pvt. Ltd.",
+                "publishedDate": "2008-08-19",
+                "description": "This textbook, presented in a clear and friendly writing style, provides students of Class XI with a thorough introduction to the discipline of computer science. It offers accurate and balanced coverage of all the computer science topics as prescribed in the CBSE syllabus Code 083. Assuming no previous knowledge of computer science, this book discusses key computing concepts to provide invaluable insight into how computers work. It prepares students for the world of computing by giving them a solid foundation in programming concepts, operating systems, problem solving methodology, C++ programming language, data representation, and computer hardware. KEY FEATURES • Explains theory in user friendly and easy-to-approach style • Teaches C++ from scratch; knowledge of C is not needed • Provides Programming Examples • Gives Practical Exercise • Provides Answers to Short Questions • Gives Practice Questions at the end of each chapter • Suitable for Self-Study",
+                "industryIdentifiers": [
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "8120329937"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9788120329935"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 608,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "averageRating": 3.5,
+                "ratingsCount": 3,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "0.2.5.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=bjE5EHw35DkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=bjE5EHw35DkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=bjE5EHw35DkC&pg=PT3&dq=computer+science&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=bjE5EHw35DkC&dq=computer+science&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/TEXTBOOK_OF_COMPUTER_SCIENCE_FOR_CLASS_X.html?hl=&id=bjE5EHw35DkC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/TEXTBOOK_OF_COMPUTER_SCIENCE_FOR_CLASS_X-sample-pdf.acsm?id=bjE5EHw35DkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=bjE5EHw35DkC&hl=&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>Computer Science</b> For Class XI Seema Bhatnagar This textbook , presented in a clear and friendly writing style , provides students of Class XI with a thorough introduction to the discipline of <b>computer science</b> ."
+            }
+        }
+    ]
+}
